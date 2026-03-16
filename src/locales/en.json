@@ -1,0 +1,98 @@
+{
+  "title": "MEDIOMICS",
+  "by": "by Kibria",
+  "subtitle": "AI-Powered Health Analysis",
+  "heroDesc": "Get personalized dietary recommendations, home remedies, and wellness insights powered by advanced symptom analysis.",
+  "heroHeadingPrefix": "Your Personal",
+  "heroHeadingHighlight": "Health Companion",
+  "customSymptoms": "Describe other symptoms...",
+  "steps": {
+    "profile": "Profile",
+    "symptoms": "Symptoms",
+    "analysis": "Analysis",
+    "results": "Results"
+  },
+  "form": {
+    "name": "Name",
+    "age": "Age",
+    "gender": "Gender",
+    "weight": "Weight (kg)",
+    "height": "Height (cm)",
+    "placeholderName": "Your name",
+    "placeholderAge": "Years",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "actions": {
+    "next": "Next Step",
+    "back": "Back",
+    "analyze": "Analyze Symptoms",
+    "copy": "Copy",
+    "print": "Print",
+    "again": "Again"
+  },
+  "validation": {
+    "profileRequired": "Please fill out all profile fields.",
+    "symptomsRequired": "Please select or enter at least one symptom."
+  },
+  "status": {
+    "analyzing": "Analyzing Your Health Data",
+    "analyzingDesc": "Our AI is processing your symptoms and generating personalized recommendations...",
+    "complete": "Analysis Complete!",
+    "completeDesc": "Here are your personalized health recommendations, {{name}}",
+    "copied": "Copied to clipboard!"
+  },
+  "sections": {
+    "recFoods": "Recommended Foods",
+    "recFoodsDesc": "Nutritious foods to support your recovery",
+    "homeRemedies": "Home Remedies",
+    "homeRemediesDesc": "Natural solutions you can try at home",
+    "posMedicines": "Possible Medicines",
+    "posMedicinesDesc": "OTC options — consult a doctor first",
+    "medWarning": "These are general suggestions. Always consult a healthcare professional before taking any medication.",
+    "dietPlanTitle": "Customized Diet Plan",
+    "dietPlanDesc": "Your personalized meal schedule",
+    "quickProfile": "Quick Profile",
+    "live": "Live",
+    "selectedSymptoms": "Selected Symptoms",
+    "noSymptoms": "No symptoms selected",
+    "healthTip": "Health Tip",
+    "healthTipDesc": "Regular health check-ups can catch potential issues early. Consider booking a comprehensive health screening every 6-12 months.",
+    "disclaimerTitle": "Medical Disclaimer",
+    "disclaimerDesc": "This app provides general health information and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for diagnosis and treatment.",
+    "hipaa": "HIPAA Compliant"
+  },
+  "footer": {
+    "rights": "© {{year}} All rights reserved. For educational purposes only."
+  },
+  "emergency": {
+    "title": "Emergency Warning",
+    "flags": [
+      "Chest pain, difficulty breathing",
+      "Severe confusion, high fever"
+    ]
+  },
+  "symptoms": {
+    "headache": "Headache",
+    "fever": "Fever",
+    "cough": "Cough",
+    "cold": "Cold",
+    "fatigue": "Fatigue",
+    "nausea": "Nausea",
+    "bodyPain": "Body Pain",
+    "stomachPain": "Stomach Pain",
+    "backPain": "Back Pain",
+    "soreThroat": "Sore Throat",
+    "dizziness": "Dizziness",
+    "lossOfAppetite": "Loss of Appetite",
+    "anxiety": "Anxiety",
+    "insomnia": "Insomnia",
+    "indigestion": "Indigestion",
+    "dehydration": "Dehydration",
+    "inflammation": "Inflammation",
+    "weakness": "Weakness",
+    "rash": "Skin Rash",
+    "chills": "Chills"
+  }
+}

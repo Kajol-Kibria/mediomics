@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# production build
+dist/
+dist-ssr/
+
+# local env files (secrets)
+.env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Vite cache
+.vite/
+
+# misc
+*.local
